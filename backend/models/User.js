@@ -17,7 +17,7 @@ const User = mongoose.model(
         type: String,
         required: true
       },
-      imae: {
+      image: {
         type: String
       },
       phone: {
